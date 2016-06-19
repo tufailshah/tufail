@@ -11,6 +11,7 @@ int s=5;
 int c=7;
 int r=1;
 int y=0;
+int l=2;
 	}
 
 }
