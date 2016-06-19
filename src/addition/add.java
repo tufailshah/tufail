@@ -9,6 +9,8 @@ int b=5;
 System.out.println(a+b);
 int s=5;
 int c=7;
+int r=1;
+int y=0;
 	}
 
 }
