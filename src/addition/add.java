@@ -13,6 +13,7 @@ int r=1;
 int y=0;
 int l=2;
 int kl = 10;
+int tu=110;
 	}
 
 }
