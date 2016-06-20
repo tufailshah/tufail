@@ -12,6 +12,7 @@ public class add {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int a=4;
+int mno=4;
 int kkkkkl=5;
 int b=5;
 int d=6;
